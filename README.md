@@ -20,7 +20,7 @@ Google maps javascript api
 ## Technologies Used
 - HTML and CSS 
 - [JavaScript](https://www.w3schools.com/js/)
-- [Google Map API](https://developers.google.com/maps/documentation/javascript/tutorial)
+- [JavaScript APIs](https://developers.google.com/maps/documentation/javascript/tutorial)
 - [javascript Marker Clustering](https://developers.google.com/maps/documentation/javascript/marker-clustering)
 - [Pexels](https://www.pexels.com/search/free%20download/) - free download photos
 - [Font Awesome](https://use.fontawesome.com/releases/v5.4.1/css/all.css) - font used 
