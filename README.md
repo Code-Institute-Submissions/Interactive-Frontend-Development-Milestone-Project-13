@@ -1,39 +1,44 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
+## Interactive Frontend Development Milestone Project
 
-Welcome Abdo Elsaih ,
+# Travel Lovers 
+This is a front-end website called "Travel Lovers " 
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+## This website was created as a project for Code Institute. To view the live site, [CLICK HERE](https://abdoelsaih.github.io/Interactive-Frontend-Development-Milestone-Project/index.html)
 
-## Gitpod Reminders
+## About the website
+Travel tours around the world, shares stories and most popular tours
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## Features 
+- Google maps javascript api
+- Tour offers and information 
+- Beautiful background 
+- Contact us form
 
-`python3 -m http.server`
+## Mobile-responsive
+- The webpages work on small to medium devices (i.e. mobile phones to laptops).
 
-A blue button should appear to click: *Make Public*,
+## Technologies Used
+- HTML and CSS 
+- [jQuery](https://jquery.com/)
+- [JavaScript](https://www.w3schools.com/js/)
+- [Pexels](https://www.pexels.com/search/free%20download/) - free download photos
+- [Font Awesome](https://use.fontawesome.com/releases/v5.4.1/css/all.css) - font used 
+- [Google Font](https://fonts.googleapis.com/css?family=Vollkorn:400,400i,600,700,900&display=swap) - font used 
 
-Another blue button should appear to click: *Open Browser*.
+## Testing
+- [W3C](http://validator.w3.org/#validate_by_uri) - Validate by direct input
+- Site tested on these browsers: Google Chrome - Internet Explorer - Mozilla Firefox - Microsoft Edge - Safari
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+## Deployment
+- The website was published using [GitHub pages](https://abdoelsaih.github.io/Interactive-Frontend-Development-Milestone-Project/index.html)
 
-A blue button should appear to click: *Make Public*,
+## Acknowledgements
+- I received inspiration for this website from other developers and especially from kids after watching the videos on the webpage 
 
-Another blue button should appear to click: *Open Browser*.
+![](screenshots/Capture.PNG)
+![](screenshots/Capture1.PNG)
+![](screenshots/Capture2.PNG)
+![](screenshots/Capture3.PNG)
+![](screenshots/Capture4.PNG)
+![](screenshots/Capture5.PNG)
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the backend lessons.
-
-## Updates Since The Instructional Video
-
-We continually tweak and adjust this template to help give you the best experience. Here are the updates since the original video was made:
-
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
-
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
-
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
-
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
-
---------
-
-Happy coding!
