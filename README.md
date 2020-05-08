@@ -9,18 +9,19 @@ This is a front-end website called "Travel Lovers "
 Travel tours around the world, shares stories and most popular tours
 
 ## Features 
-- Google maps javascript api
 - Tour offers and information 
+- Google Map
 - Beautiful background 
 - Contact us form
-
+Google maps javascript api
 ## Mobile-responsive
 - The webpages work on small to medium devices (i.e. mobile phones to laptops).
 
 ## Technologies Used
 - HTML and CSS 
-- [jQuery](https://jquery.com/)
 - [JavaScript](https://www.w3schools.com/js/)
+- [Google Map API](https://developers.google.com/maps/documentation/javascript/tutorial)
+- [javascript Marker Clustering](https://developers.google.com/maps/documentation/javascript/marker-clustering)
 - [Pexels](https://www.pexels.com/search/free%20download/) - free download photos
 - [Font Awesome](https://use.fontawesome.com/releases/v5.4.1/css/all.css) - font used 
 - [Google Font](https://fonts.googleapis.com/css?family=Vollkorn:400,400i,600,700,900&display=swap) - font used 
